@@ -1,0 +1,1 @@
+# slopebr-strapi
